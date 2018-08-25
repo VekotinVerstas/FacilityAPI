@@ -1,10 +1,7 @@
 # FacilityAPI
 
-BACKLOG:
-- HVAC properties
-- sensor event types incl. home/away, hold
-- GRID_CONTROLLABLE_LOAD
+An implementation of IEC 61970 Common Interface Model (CIM) for energy management
 
-NEXT MAJOR VERSION:
-- SensorThings -compatibility
-- Haystack tags
+Created for Smart Kalasatama project by Forum Virium Helsinki Oy.
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 731297.
